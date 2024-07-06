@@ -1,2 +1,239 @@
- const _0xed5e16=_0x5794;(function(_0x4af7ef,_0x41e4ba){const _0x2f901b=_0x5794,_0x1dab9f=_0x4af7ef();while(!![]){try{const _0x478deb=-parseInt(_0x2f901b(0x90))/0x1+parseInt(_0x2f901b(0x81))/0x2+-parseInt(_0x2f901b(0xc4))/0x3+parseInt(_0x2f901b(0xa4))/0x4*(parseInt(_0x2f901b(0xc7))/0x5)+-parseInt(_0x2f901b(0xa3))/0x6+parseInt(_0x2f901b(0x80))/0x7*(parseInt(_0x2f901b(0xb5))/0x8)+parseInt(_0x2f901b(0xc6))/0x9;if(_0x478deb===_0x41e4ba)break;else _0x1dab9f['push'](_0x1dab9f['shift']());}catch(_0x53b174){_0x1dab9f['push'](_0x1dab9f['shift']());}}}(_0x49fe,0x956c9),document[_0xed5e16(0x91)](_0xed5e16(0xa8),function(){const _0x28e731=_0xed5e16,_0x16eef9=document[_0x28e731(0x8b)](_0x28e731(0x99)),_0x1960bb=document[_0x28e731(0xbf)](_0x28e731(0x7e));let _0x1196e1=0x8;const _0x58f016=0x8;function _0x4c9e24(){const _0x61a42f=_0x28e731;_0x16eef9[_0x61a42f(0xc0)]((_0x411cc3,_0x40e0cf)=>{const _0x5cc41c=_0x61a42f;_0x411cc3[_0x5cc41c(0x92)][_0x5cc41c(0xa1)]=_0x40e0cf<_0x1196e1?'inline-block':_0x5cc41c(0xce);}),_0x1196e1>=_0x16eef9[_0x61a42f(0x7f)]&&(_0x1960bb[_0x61a42f(0xc3)]=_0x61a42f(0x8d),_0x1960bb['onclick']=()=>{const _0x3e8563=_0x61a42f;window['location'][_0x3e8563(0x7b)]=_0x3e8563(0x9a);});}_0x1960bb[_0x28e731(0x91)](_0x28e731(0xb7),function(){_0x1196e1+=_0x58f016,_0x4c9e24();}),_0x4c9e24();}));function addCopyrightAndLink(){const _0xc144b0=_0xed5e16,_0x42a1f1=document[_0xc144b0(0xbf)](_0xc144b0(0x98));if(_0x42a1f1){const _0x1da2d5=_0x42a1f1[_0xc144b0(0xa0)],_0x53d99e=document[_0xc144b0(0x97)](_0xc144b0(0xae));_0x53d99e['innerHTML']='\x20|\x20Made\x20with\x20';const _0x3b2cbe=document[_0xc144b0(0x97)]('a');_0x3b2cbe[_0xc144b0(0x7b)]=_0xc144b0(0xb1),_0x3b2cbe[_0xc144b0(0xb4)]=_0xc144b0(0x82),_0x42a1f1[_0xc144b0(0xa0)]='',_0x42a1f1[_0xc144b0(0xa0)]=_0x1da2d5,_0x42a1f1[_0xc144b0(0x83)](_0x53d99e),_0x42a1f1['appendChild'](_0x3b2cbe);}}function checkCopyright(){const _0x573fa1=_0xed5e16,_0x5d76c2=document[_0x573fa1(0xbf)](_0x573fa1(0x98));if(!_0x5d76c2){document[_0x573fa1(0xab)]['innerHTML']='';const _0x4b061c=document['createElement']('div');_0x4b061c[_0x573fa1(0x92)][_0x573fa1(0xb0)]=_0x573fa1(0xb9),_0x4b061c['style'][_0x573fa1(0x9f)]='50%',_0x4b061c[_0x573fa1(0x92)][_0x573fa1(0xc2)]='50%',_0x4b061c[_0x573fa1(0x92)][_0x573fa1(0xa7)]=_0x573fa1(0xb6),_0x4b061c[_0x573fa1(0x92)][_0x573fa1(0x7c)]=_0x573fa1(0x95),_0x4b061c[_0x573fa1(0x92)]['padding']=_0x573fa1(0x93),_0x4b061c[_0x573fa1(0x92)][_0x573fa1(0xbd)]=_0x573fa1(0xbe),_0x4b061c[_0x573fa1(0x92)][_0x573fa1(0xc5)]=_0x573fa1(0xc9),_0x4b061c[_0x573fa1(0x92)][_0x573fa1(0x88)]=_0x573fa1(0x8f);const _0x3dc7c7=document[_0x573fa1(0x97)](_0x573fa1(0xba));_0x3dc7c7['innerHTML']='&#x2639;',_0x3dc7c7['style'][_0x573fa1(0x94)]=_0x573fa1(0xb3),_0x3dc7c7[_0x573fa1(0x92)][_0x573fa1(0x8c)]='#721c24';const _0x61125c=document[_0x573fa1(0x97)](_0x573fa1(0xba));_0x61125c[_0x573fa1(0xb4)]=_0x573fa1(0xaf),_0x61125c[_0x573fa1(0x92)][_0x573fa1(0x8c)]=_0x573fa1(0xca),_0x61125c[_0x573fa1(0x92)][_0x573fa1(0xac)]=_0x573fa1(0xa6);const _0x2684d4=document[_0x573fa1(0x97)](_0x573fa1(0xa2));_0x2684d4[_0x573fa1(0xb4)]=_0x573fa1(0xcc),_0x2684d4[_0x573fa1(0x92)][_0x573fa1(0x7c)]=_0x573fa1(0x9b),_0x2684d4[_0x573fa1(0x92)][_0x573fa1(0x8c)]='#721c24',_0x2684d4[_0x573fa1(0x92)][_0x573fa1(0xbb)]=_0x573fa1(0xce),_0x2684d4[_0x573fa1(0x92)][_0x573fa1(0xbd)]=_0x573fa1(0xa9),_0x2684d4[_0x573fa1(0x92)][_0x573fa1(0x9c)]='10px\x2020px',_0x2684d4[_0x573fa1(0x92)][_0x573fa1(0xb2)]='pointer',_0x2684d4[_0x573fa1(0x92)][_0x573fa1(0xac)]=_0x573fa1(0x93),_0x2684d4[_0x573fa1(0x91)](_0x573fa1(0xb7),function(){const _0x579294=_0x573fa1;window[_0x579294(0x8a)][_0x579294(0x7b)]=_0x579294(0xb8);}),_0x4b061c[_0x573fa1(0x83)](_0x3dc7c7),_0x4b061c[_0x573fa1(0x83)](_0x61125c),_0x4b061c[_0x573fa1(0x83)](_0x2684d4),document[_0x573fa1(0xab)][_0x573fa1(0x83)](_0x4b061c);}}function _0x49fe(){const _0xe157b2=['location','querySelectorAll','color','Kembali\x20ke\x20Atas','querySelector','center','742051aJJtBK','addEventListener','style','20px','fontSize','#f8d7da','.slideshow-container','createElement','copyright','.album\x20img','#galeri','#f5c6cb','padding','scrollTo','block','top','innerHTML','display','button','2030334FieHpn','4405672EPtGfx','menuToggle','10px','transform','DOMContentLoaded','5px','mouseenter','body','marginTop','smooth','span','Error\x20404\x0aOperation\x20could\x20not\x20be\x20completed\x0a(Jangan\x20hapus\x20kode\x20copyright.\x20Untuk\x20mendapatkan\x20lisensi,\x20hubungi\x20atau\x20kunjungi\x20www.nabireupdate.com)','position','https://www.nabireupdate.com/','cursor','50px','innerText','3100232IoxEuZ','translate(-50%,\x20-50%)','click','https://www.nabireupdate.com','fixed','div','border','menu','borderRadius','8px','getElementById','forEach','className','left','textContent','341670DtOVvo','boxShadow','1598913HFIpzn','5xxZnLk','touchend','0\x202px\x2010px\x20rgba(0,0,0,0.1)','#721c24','stopPropagation','RETRY','closeBtn','none','href','backgroundColor','mySlides','albumButton','length','7XUBRph','279534laoHuF','NabireKreatif','appendChild','dot','replace','mouseleave','\x20active','textAlign','getElementsByClassName'];_0x49fe=function(){return _0xe157b2;};return _0x49fe();}document[_0xed5e16(0x91)](_0xed5e16(0xa8),()=>{addCopyrightAndLink(),setInterval(checkCopyright,0x3e8);}),document[_0xed5e16(0x91)](_0xed5e16(0xa8),function(){const _0x445dd8=_0xed5e16,_0x177c68=document['getElementById'](_0x445dd8(0xa5)),_0xb60b8f=document[_0x445dd8(0xbf)](_0x445dd8(0xbc)),_0x2c94ac=document['getElementById'](_0x445dd8(0xcd));let _0x2be7db=![];function _0x5fc145(){const _0x22617e=_0x445dd8;_0x2be7db?_0xb60b8f['style']['display']='none':(_0xb60b8f['style']['display']=_0x22617e(0x9e),window[_0x22617e(0x9d)]({'top':0x0,'behavior':_0x22617e(0xad)})),_0x2be7db=!_0x2be7db;}function _0x10de51(){const _0x4c9c78=_0x445dd8;_0xb60b8f[_0x4c9c78(0x92)][_0x4c9c78(0xa1)]=_0x4c9c78(0xce),_0x2be7db=![];}_0x177c68[_0x445dd8(0x91)](_0x445dd8(0xb7),function(_0x5bfb87){const _0x415b6a=_0x445dd8;_0x5bfb87[_0x415b6a(0xcb)](),_0x5fc145();}),_0x2c94ac[_0x445dd8(0x91)](_0x445dd8(0xb7),function(_0x1cf723){const _0x923e36=_0x445dd8;_0x1cf723[_0x923e36(0xcb)](),_0x10de51();}),document[_0x445dd8(0x91)](_0x445dd8(0xb7),function(){_0x2be7db&&_0x10de51();}),_0xb60b8f[_0x445dd8(0x91)](_0x445dd8(0xb7),function(_0x5d43b3){const _0x269528=_0x445dd8;_0x5d43b3[_0x269528(0xcb)]();});});function _0x5794(_0x3a6df5,_0x4ad3ee){const _0x49fe54=_0x49fe();return _0x5794=function(_0x5794fd,_0x13ea07){_0x5794fd=_0x5794fd-0x7b;let _0x4d1a9a=_0x49fe54[_0x5794fd];return _0x4d1a9a;},_0x5794(_0x3a6df5,_0x4ad3ee);}var timeOut=0xbb8,autoOn=!![],slideIndex=0x0,slideTimer;if(autoOn){var slider=document[_0xed5e16(0x8e)](_0xed5e16(0x96));slider[_0xed5e16(0x91)](_0xed5e16(0xaa),function(){clearTimeout(slideTimer),autoOn=![];}),slider[_0xed5e16(0x91)]('touchstart',function(){clearTimeout(slideTimer),autoOn=![];}),slider[_0xed5e16(0x91)](_0xed5e16(0x86),function(){autoOn=!![],autoSlides();}),slider[_0xed5e16(0x91)](_0xed5e16(0xc8),function(){autoOn=!![],autoSlides();});function autoSlides(){slideTimer=setTimeout(function(){showSlides(),autoSlides();},timeOut);}autoSlides();}else showSlides();function prevSlide(){const _0x2c5e9a=_0xed5e16;var _0x47f7ba=document['getElementsByClassName'](_0x2c5e9a(0x7d)),_0x518d4e=document[_0x2c5e9a(0x89)](_0x2c5e9a(0x84));for(i=0x0;i<_0x47f7ba[_0x2c5e9a(0x7f)];i++){_0x47f7ba[i][_0x2c5e9a(0x92)][_0x2c5e9a(0xa1)]='none',_0x518d4e[i][_0x2c5e9a(0xc1)]=_0x518d4e[i][_0x2c5e9a(0xc1)]['replace'](_0x2c5e9a(0x87),'');}slideIndex--,slideIndex<0x0&&(slideIndex=_0x47f7ba[_0x2c5e9a(0x7f)]-0x1),_0x47f7ba[slideIndex]['style']['display']=_0x2c5e9a(0x9e),_0x518d4e[slideIndex]['className']+='\x20active';}function showSlides(){const _0x4090f4=_0xed5e16;var _0x25189c=document[_0x4090f4(0x89)](_0x4090f4(0x7d)),_0x1ca023=document[_0x4090f4(0x89)](_0x4090f4(0x84));for(i=0x0;i<_0x25189c[_0x4090f4(0x7f)];i++){_0x25189c[i][_0x4090f4(0x92)][_0x4090f4(0xa1)]=_0x4090f4(0xce),_0x1ca023[i][_0x4090f4(0xc1)]=_0x1ca023[i]['className'][_0x4090f4(0x85)](_0x4090f4(0x87),'');}slideIndex++,slideIndex>=_0x25189c[_0x4090f4(0x7f)]&&(slideIndex=0x0),_0x25189c[slideIndex][_0x4090f4(0x92)][_0x4090f4(0xa1)]=_0x4090f4(0x9e),_0x1ca023[slideIndex][_0x4090f4(0xc1)]+=_0x4090f4(0x87);}slideIndex=-0x1,showSlides();
+ //galeri
+ document.addEventListener("DOMContentLoaded", function() {
+    const images = document.querySelectorAll('.album img');
+    const albumButton = document.getElementById('albumButton');
+    let currentIndex = 8; // jumlah foto awal
+    const imagesPerPage = 8; // jumlah foto yang di tampilkan
+
+    function updateDisplay() {
+      images.forEach((img, index) => {
+        img.style.display = (index < currentIndex) ? 'inline-block' : 'none';
+      });
+
+      if (currentIndex >= images.length) {
+        albumButton.textContent = 'Kembali ke Atas';
+        albumButton.onclick = () => { window.location.href = '#galeri'; };
+      }
+    }
+
+    albumButton.addEventListener('click', function() {
+      currentIndex += imagesPerPage;
+      updateDisplay();
+    });
+
+    // Initialize the display
+    updateDisplay();
+  });
+ 
+ // Fungsi untuk menambahkan teks copyright dan tautan ke dalam elemen footer
+ function addCopyrightAndLink() {
+    // Mengambil elemen dengan id 'copyright'
+    const copyrightElement = document.getElementById('copyright');
   
+    if (copyrightElement) {
+      // Menyimpan teks asli
+      const originalText = copyrightElement.innerHTML;
+  
+      // Membuat teks tambahan
+      const additionalText = document.createElement('span');
+      additionalText.innerHTML = ' | Made with ';
+  
+      // Membuat elemen tautan
+      const nabireLink = document.createElement('a');
+      nabireLink.href = 'https://www.nabireupdate.com/';
+      nabireLink.innerText = 'NabireKreatif';
+  
+      // Menambahkan teks asli, tambahan, dan tautan ke dalam elemen copyright
+      copyrightElement.innerHTML = '';
+      copyrightElement.innerHTML = originalText;
+      copyrightElement.appendChild(additionalText);
+      copyrightElement.appendChild(nabireLink);
+    }
+  }
+  
+  // Fungsi untuk mengecek keberadaan elemen copyright
+  function checkCopyright() {
+    // Mengambil elemen dengan id 'copyright'
+    const copyrightElement = document.getElementById('copyright');
+  
+    // Jika elemen tidak ada, tampilkan pesan peringatan
+    if (!copyrightElement) {
+      document.body.innerHTML = ''; // Mengosongkan konten halaman
+      
+      // Membuat elemen container untuk pesan error
+      const errorContainer = document.createElement('div');
+      errorContainer.style.position = 'fixed';
+      errorContainer.style.top = '50%';
+      errorContainer.style.left = '50%';
+      errorContainer.style.transform = 'translate(-50%, -50%)';
+      errorContainer.style.backgroundColor = '#f8d7da';
+      errorContainer.style.padding = '20px';
+      errorContainer.style.borderRadius = '8px';
+      errorContainer.style.boxShadow = '0 2px 10px rgba(0,0,0,0.1)';
+      errorContainer.style.textAlign = 'center';
+  
+      // Membuat elemen untuk ikon
+      const errorIcon = document.createElement('div');
+      errorIcon.innerHTML = '&#x2639;'; // Unicode untuk ikon sedih
+      errorIcon.style.fontSize = '50px';
+      errorIcon.style.color = '#721c24';
+      
+      // Membuat elemen pesan error
+      const errorMessage = document.createElement('div');
+      errorMessage.innerText = 'Error 404\nOperation could not be completed\n(Jangan hapus kode copyright. Untuk mendapatkan lisensi, hubungi atau kunjungi www.nabireupdate.com)';
+      errorMessage.style.color = '#721c24';
+      errorMessage.style.marginTop = '10px';
+  
+      // Membuat tombol retry
+      const retryButton = document.createElement('button');
+      retryButton.innerText = 'RETRY';
+      retryButton.style.backgroundColor = '#f5c6cb';
+      retryButton.style.color = '#721c24';
+      retryButton.style.border = 'none';
+      retryButton.style.borderRadius = '5px';
+      retryButton.style.padding = '10px 20px';
+      retryButton.style.cursor = 'pointer';
+      retryButton.style.marginTop = '20px';
+      
+      // Menambahkan event listener pada tombol retry
+      retryButton.addEventListener('click', function() {
+        window.location.href = 'https://www.nabireupdate.com';
+      });
+  
+      // Menambahkan ikon, pesan, dan tombol ke dalam container
+      errorContainer.appendChild(errorIcon);
+      errorContainer.appendChild(errorMessage);
+      errorContainer.appendChild(retryButton);
+  
+      // Menambahkan container ke dalam body
+      document.body.appendChild(errorContainer);
+    }
+  }
+  
+  // Menambahkan teks copyright dan tautan ketika halaman selesai dimuat
+  document.addEventListener('DOMContentLoaded', () => {
+    addCopyrightAndLink();
+  
+    // Mengecek keberadaan elemen copyright setiap detik
+    setInterval(checkCopyright, 1000);
+  });
+
+  //menu open
+  document.addEventListener('DOMContentLoaded', function () {
+    const menuToggle = document.getElementById('menuToggle');
+    const menu = document.getElementById('menu');
+    const closeBtn = document.getElementById('closeBtn');
+    let isMenuOpen = false;
+
+    function toggleMenu() {
+        if (isMenuOpen) {
+            menu.style.display = 'none';
+        } else {
+            menu.style.display = 'block';
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+        isMenuOpen = !isMenuOpen;
+    }
+
+    function closeMenu() {
+        menu.style.display = 'none';
+        isMenuOpen = false;
+    }
+
+    menuToggle.addEventListener('click', function (event) {
+        event.stopPropagation();
+        toggleMenu();
+    });
+
+    closeBtn.addEventListener('click', function (event) {
+        event.stopPropagation();
+        closeMenu();
+    });
+
+    document.addEventListener('click', function () {
+        if (isMenuOpen) {
+            closeMenu();
+        }
+    });
+
+    menu.addEventListener('click', function (event) {
+        event.stopPropagation();
+    });
+});
+
+/*<![CDATA[*/
+// source code: www.w3schools.com modified by wendycode
+// last updated 28-05-2023
+var timeOut = 3000, // 3 seconds change image
+    autoOn = true, // change it to false if you don't want automatic slides
+    slideIndex = 0,
+    slideTimer;
+if (autoOn) {
+   var slider = document.querySelector(".slideshow-container");
+    slider.addEventListener("mouseenter", function() {
+        clearTimeout(slideTimer);
+        autoOn = false;
+    });
+
+    slider.addEventListener("touchstart", function() {
+        clearTimeout(slideTimer);
+        autoOn = false;
+    });
+
+    slider.addEventListener("mouseleave", function() {
+        autoOn = true;
+        autoSlides();
+    });
+
+    slider.addEventListener("touchend", function() {
+        autoOn = true;
+        autoSlides();
+    });
+
+    function autoSlides() {
+        slideTimer = setTimeout(function() {
+
+              showSlides();
+              autoSlides();
+            }
+            , timeOut);
+    }
+     autoSlides();
+} else {
+     showSlides()
+}
+
+function prevSlide() {
+      var e = document.getElementsByClassName("mySlides"),
+        s = document.getElementsByClassName("dot");
+       for (i = 0; i < e.length; i++) {
+       e[i].style.display = "none";
+       s[i].className = s[i].className.replace(" active", "");
+    }
+    slideIndex--;
+    if (slideIndex < 0) {
+        slideIndex = e.length - 1;
+    }
+    e[slideIndex].style.display = "block";
+    s[slideIndex].className += " active";
+
+}
+
+function showSlides() {
+    var e = document.getElementsByClassName("mySlides"),
+       s = document.getElementsByClassName("dot");
+    for (i = 0; i < e.length; i++) {
+        e[i].style.display = "none";
+        s[i].className = s[i].className.replace(" active", "");
+     }
+    slideIndex++;
+    if (slideIndex >= e.length) {
+       slideIndex = 0;
+    }
+    e[slideIndex].style.display = "block";
+    s[slideIndex].className += " active";
+}
+
+slideIndex = -1;
+showSlides();
+/*]]>*/
